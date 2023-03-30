@@ -1,5 +1,5 @@
 <?php
-namespace Wl\Lib;
+namespace Welannn\Lib;
 
 class Area
 {
